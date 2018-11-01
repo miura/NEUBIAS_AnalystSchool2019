@@ -40,10 +40,12 @@ In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis
 - Reuse of certain component blocks for different biological problems
 - Capability of running the workflow in various environments 
 
-This year, Julius Hossain (EMBL, https://www.embl.de/research/units/cbb/ellenberg/members/index.php?s_personId=CP-60014993, @JuliusHossain) will guide us through the framework that underlies the latest work of his group:
-_Experimental and computational framework for a dynamic protein atlas of human cell division
-Yin Cai, M. Julius Hossain, Jean-Karim Hériché, Antonio Z. Politi, Nike Walther, Birgit Koch, Malte Wachsmuth, Bianca Nijmeijer, Moritz Kueblbeck, Marina Martinic-Kavur, Rene Ladurner, Stephanie Alexander, Jan-Michael Peters & Jan Ellenberg_
-https://www.nature.com/articles/s41586-018-0518-z
+This year, [Julius Hossain (EMBL, @JuliusHossain)](https://www.embl.de/research/units/cbb/ellenberg/members/index.php?s_personId=CP-60014993) will guide us through the framework that underlies the latest work of his group:
+
+- **Experimental and computational framework for a dynamic protein atlas of human cell division**
+  - Yin Cai, M. Julius Hossain, Jean-Karim Hériché, Antonio Z. Politi, Nike Walther, Birgit Koch, Malte Wachsmuth, Bianca Nijmeijer, Moritz Kueblbeck, Marina Martinic-Kavur, Rene Ladurner, Stephanie Alexander, Jan-Michael Peters & Jan Ellenberg
+  - https://www.nature.com/articles/s41586-018-0518-z
+
 We will use the framework of this paper to serve as the basis for or deconstructon activities. Expect to go from start to finish, including post-data analysis considerations.
 
 In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and train the essential and effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
@@ -88,11 +90,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
   <https://www.nature.com/articles/s41586-018-0518-z>
 
-## Workflows, Student Presentations
-
-Some workflows submitted by participants during registration will be selected for presentation during the school. 
-
-## Advanced Workflow Components
+## Advanced Workflow Components: Details
 
 ### Invited Component Autors
 
@@ -119,6 +117,12 @@ more details comming sooon...
 ### Super-resolution images reconstruction and analysis.
 
 more details comming sooon...
+
+
+
+## Workflows, Student Presentations
+
+Some workflows submitted by participants during registration will be selected for presentation during the school. 
 
 
 ## Implementations / Presentations
