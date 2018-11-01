@@ -94,10 +94,19 @@ Some workflows submitted by participants during registration will be selected fo
 
 ## Advanced Workflow Components
 
+### Invited Component Autors
+
 - Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
+<img src="./SianCulley.jpg" width="200">
+
 - Robert Haase (CSBD Dresden, https://myerslab.mpi-cbg.de/robert-haase/, @haesleinhuepf)
-- Pejamn Rasi (Angers University,http://perso-laris.univ-angers.fr/~rasti/, @pejmanrasti)
+<img src="./RobertHaase.jpg" width="200">
+
+- Pejamn Rasti (Angers University,http://perso-laris.univ-angers.fr/~rasti/, @pejmanrasti)
+<img src="./PejmanRasti.jpg" width="200">
+
 - David Rousseau (Angers University)
+<img src="./DavidRousseau.jpg" width="200">
 
 ###  API-beating: ImgLib2, ImageJ2 and Big-Data Viewer
 
