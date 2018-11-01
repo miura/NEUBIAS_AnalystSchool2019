@@ -34,10 +34,20 @@ In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis
 - Reuse of certain component blocks for different biological problems
 - Capability of running the workflow in various environments 
 
+This year, Julius Hossain (EMBL, https://www.embl.de/research/units/cbb/ellenberg/members/index.php?s_personId=CP-60014993, @JuliusHossain) will guide us through the framework that underlies the latest work of his group:
+_Experimental and computational framework for a dynamic protein atlas of human cell division
+Yin Cai, M. Julius Hossain, Jean-Karim Hériché, Antonio Z. Politi, Nike Walther, Birgit Koch, Malte Wachsmuth, Bianca Nijmeijer, Moritz Kueblbeck, Marina Martinic-Kavur, Rene Ladurner, Stephanie Alexander, Jan-Michael Peters & Jan Ellenberg_
+https://www.nature.com/articles/s41586-018-0518-z
+We will use the framework of this paper to serve as the basis for or deconstructon activities. Expect to go from start to finish, including post-data analysis considerations.
 
 In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and train the essential and effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
 
-In **Forums**, we will discuss various aspects related to bioimage analysis - with interests surrounding analysts as a profession  (e.g. How do we teach bioimage analysis? Employment conditions? ). Discussion results are summarized and will be reported to the NEUBIAS community.
+This year we will learn about:
+- Deep-Learning techniques for segmentation of Lice-Sciences images.
+- Super-resolution image reconstruction and analysis.
+- ImageJ2 and ImgLib2 scripting an programming, and in the context of large images.
+
+In **Forums**, we will discuss various aspects related to bioimage analysis - with interests surrounding analysts as a profession  (_e.g._ How do we teach bioimage analysis? Employment conditions?). Discussion results are summarized and will be reported to the NEUBIAS community.
 
 In **Implementation**, participants are split into several groups, and each group implements one of the following issues:
 
@@ -50,9 +60,9 @@ In **Implementation**, participants are split into several groups, and each grou
 
 Participants are expected to be bioimage analysts, analyzing biological image data on daily basis. 
 
-We expect a fluency in at least one programming language. We do not teach coding, but intensively do coding using several different languages. Skills / flexibility to follow such sessions are a prerequisite. 
-
 Please bring your own laptop! We do not provide machines.  
+
+We expect some fluency in at least one programming language. We do not teach coding, but intensively do coding using several different languages. Skills / flexibility to follow such sessions are a prerequisite. Specific workflow organizers will however provide some 'homework' to prepare for their module, containing leads to learn a language and prepare for the installation of the required softwares on your laptop.
 
 **There will be no helpers during all sessions. ** We rather promote attending bioimage analysts to to help each other, also for the networking.
 
@@ -68,7 +78,10 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ### Invited Workflow Deconstruction Authors
 
-[TBA]
+- Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
+- Robert Haase (CSBD Dresden, https://myerslab.mpi-cbg.de/robert-haase/, @haesleinhuepf)
+- Pejamn Rasi (Angers University,http://perso-laris.univ-angers.fr/~rasti/, @pejmanrasti)
+- David Rousseau (Angers University)
 
 ## Workflows, Student Presentations
 
@@ -76,11 +89,10 @@ Some workflows submitted by participants during registration will be selected fo
 
 ## Advanced Workflow Components
 
-###  API-beating: ImgLib2
+###  API-beating: ImgLib2, ImageJ2 and Big-Data Viewer.
+### Deep-Learning to segment Life-Science images.
+### Super-resolution images reconstruction and analysis.
 
-### TBA
-
-### TBA
 
 ## Implementations / Presentations
 
@@ -91,3 +103,4 @@ School participants are asked to present their implementations (by group) on the
 
 
 
+It's going to be great!
