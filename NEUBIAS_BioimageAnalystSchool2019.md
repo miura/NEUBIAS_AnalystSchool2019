@@ -25,6 +25,12 @@ Feb 2 (Sat), 11:00  - 5 (Tue) 13:00, 2019
 
 ## The program 
 
+|                      | Day 1       | Day 2           | Day 3                       | Day 4         |
+| -------------------- | ----------- | --------------- | --------------------------- | ------------- |
+| Morning 1            | Lecture     | Lecture         | Lecture                     | Lecture       |
+| Morning 2            | Components. | Deconstruction. | Deconstruction by students. | Presentations |
+| Afternoon & evening. | Components. | Deconstruction. | Deconstruction by students  |               |
+
 The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://www.authorea.com/users/90123/articles/211121-workflows-and-components-of-bioimage-analysis-the-neubias-concept)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, **Forums** and **Implementation**. 
 
 In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis workflows. Invited author of the selected workflow present the bioimage analysis workflow in details: the biological problem, algorithms of components including statistical analysis, how they are assembled into the workflow to output either numbers, plots or visualization results. In parallel with these explanations, participants will load those components and reproduce the workflow on their own laptop (reproduce the workflow). Interactive discussion on following points will be moderated.
@@ -78,6 +84,18 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ### Invited Workflow Deconstruction Authors
 
+- Julius Hossein, EMBL Heidelberg
+
+  <https://www.nature.com/articles/s41586-018-0518-z>
+
+## Workflows, Student Presentations
+
+Some workflows submitted by participants during registration will be selected for presentation during the school. 
+
+## Advanced Workflow Components
+
+### Invited Component Autors
+
 - Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
 <img src="./SianCulley.jpg" width="200">
 
@@ -90,15 +108,17 @@ During registration, the applicant is asked to submit at least one bioimage anal
 - David Rousseau (Angers University)
 <img src="./DavidRousseau.jpg" width="200">
 
-## Workflows, Student Presentations
+###  API-beating: ImgLib2, ImageJ2 and Big-Data Viewer
 
-Some workflows submitted by participants during registration will be selected for presentation during the school. 
+more details comming sooon...
 
-## Advanced Workflow Components
-
-###  API-beating: ImgLib2, ImageJ2 and Big-Data Viewer.
 ### Deep-Learning to segment Life-Science images.
+
+more details comming sooon...
+
 ### Super-resolution images reconstruction and analysis.
+
+more details comming sooon...
 
 
 ## Implementations / Presentations
