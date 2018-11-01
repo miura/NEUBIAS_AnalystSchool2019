@@ -87,8 +87,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 ### Invited Workflow Deconstruction Authors
 
 - Julius Hossein, EMBL Heidelberg
-
-  <https://www.nature.com/articles/s41586-018-0518-z>
+<img src="./JuliusHossain.jpg" width="200">
 
 ## Advanced Workflow Components: Details
 
