@@ -25,11 +25,11 @@ Feb 2 (Sat), 11:00  - 5 (Tue) 13:00, 2019
 
 ## The program 
 
-|                      | Day 1       | Day 2           | Day 3                       | Day 4         |
-| -------------------- | ----------- | --------------- | --------------------------- | ------------- |
-| Morning 1            | Lecture     | Lecture         | Lecture                     | Lecture       |
-| Morning 2            | Components. | Deconstruction. | Deconstruction by students. | Presentations |
-| Afternoon & evening. | Components. | Deconstruction. | Deconstruction by students  |               |
+|                      | Day 1 (Feb. 2)       | Day 2 (Feb. 3)                  | Day 3 (Feb. 4)              | Day 4 (Feb. 5) |
+| -------------------- | -------------------- | ------------------------------- | --------------------------- | -------------- |
+| Morning 1            | David                | Julius                          | Sian                        | Carlo          |
+| Morning 2            | Components (Pejmn).  | Deconstruction (Julius Hossain) | Deconstruction by students. | Presentations  |
+| Afternoon & evening. | Components (Robert). | Deconstruction (Julius Hossain) | Deconstruction by students  |                |
 
 The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://www.authorea.com/users/90123/articles/211121-workflows-and-components-of-bioimage-analysis-the-neubias-concept)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, **Forums** and **Implementation**. 
 
