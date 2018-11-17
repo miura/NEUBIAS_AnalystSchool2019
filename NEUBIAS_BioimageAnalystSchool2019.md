@@ -27,7 +27,7 @@ Feb 2 (Sat), 11:00  - 5 (Tue) 13:00, 2019
 
 |                      | Day 1 (Feb. 2)       | Day 2 (Feb. 3)                  | Day 3 (Feb. 4)              | Day 4 (Feb. 5) |
 | -------------------- | -------------------- | ------------------------------- | --------------------------- | -------------- |
-| Morning 1            | David                | Julius                          | Sian                        | Carlo          |
+| Morning 1            | David                | Ignacio (TBC)                   | Sian                        | Carlo (TBC)    |
 | Morning 2            | Components (Pejmn).  | Deconstruction (Julius Hossain) | Deconstruction by students. | Presentations  |
 | Afternoon & evening. | Components (Robert). | Deconstruction (Julius Hossain) | Deconstruction by students  |                |
 
@@ -129,6 +129,14 @@ Some workflows submitted by participants during registration will be selected fo
 School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
 
  
+
+## Time Table
+
+Below is the tentative schedule. Some slots are still unconfirmed. 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXTjpLEt060RJNGfWT4eAp6Sji_iRpIXGWfOxUItUBvFTdaJpV6eZwdR5JxQ0XER_4evki8gMfJlJe/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
+
+
 
 
 
