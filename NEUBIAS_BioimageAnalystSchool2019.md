@@ -110,9 +110,9 @@ During registration, the applicant is asked to submit at least one bioimage anal
 After an introduction to ImageJ, Fiji and the ImageJ2 application programming interface (API) the session will be mainly live coding as a 
 group. We will construct a workflow by utilizing auto-completion capabilities of IntellIJ and compile the workflow as
 ImageJ/Fiji plugin. The workflow will be utilized to convert images between ImageJ1 and ImageJ2 worlds. We will apply a 
-threshold and post-process the binary image using ImageJ-Ops. We will visualise intermediate results using BigDataViewer
+threshold and post-process the binary image using ImageJ-Ops. We will visualise intermediate results using BigDataViewer.
 Last but not least an overview on upcoming technologies will be given including 
-ImageJ-Server, ImageJ Juypter notebooks, ImageJ on GPU and ImageJ from Python.
+ImageJ-Server, ImageJ Juypter notebooks, ImageJ on GPU (CLIJ) and ImageJ from Python.
 
 **Homework:** To prepare this session, students are asked to install some software packages on their laptops in advance of 
 the course:
