@@ -27,7 +27,7 @@ Feb 2 (Sat), 11:00  - 5 (Tue) 13:00, 2019
 
 |                      | Day 1 (Feb. 2)       | Day 2 (Feb. 3)                  | Day 3 (Feb. 4)              | Day 4 (Feb. 5) |
 | -------------------- | -------------------- | ------------------------------- | --------------------------- | -------------- |
-| Morning 1            | David                | Ignacio (TBC)                   | Sian                        | Carlo (TBC)    |
+| Morning 1            | David                | Ignacio (TBC)                   | Sian                        | (TBC)          |
 | Morning 2            | Components (Pejmn).  | Deconstruction (Julius Hossain) | Deconstruction by students. | Presentations  |
 | Afternoon & evening. | Components (Robert). | Deconstruction (Julius Hossain) | Deconstruction by students  |                |
 
@@ -78,61 +78,39 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflow Deconstruction: Details
 
-  * Tracing the workflow, starting with sample image data, understand the biological problem, do image processing and data analysis, ends up in numbers, plots or visualizations. 
-  * Explanation for each step (or each component) are given and interesting algorithms are picked up and discussed in details. 
-  * Each participant uses ones own laptop to reproduce / modify the workflow
-  * Interactions: questions on components, a proposal for alternative solutions, discussion on capability in other ecosystems. 
-  * Invited "workflow authors" + Selected "workflow authors" from applicants (registration form should include an abstract of submission of interesting workflow)
+- Invited Author: - Julius Hossein, EMBL Heidelberg
+   - <img src="./JuliusHossain.jpg" width="200">
+- Details of [Preparation and Homeworks](Julius_Construction_additional_details.md)
+- Concepts
 
-### Invited Workflow Deconstruction Authors
+   - Tracing the workflow, starting with sample image data, understand the biological problem, do image processing and data analysis, ends up in numbers, plots or visualizations. 
+   - Explanation for each step (or each component) are given and interesting algorithms are picked up and discussed in details. 
+   - Each participant uses ones own laptop to reproduce / modify the workflow
+   - Interactions: questions on components, a proposal for alternative solutions, discussion on capability in other ecosystems. 
+   - Invited "workflow authors" + Selected "workflow authors" from applicants (registration form should include an abstract of submission of interesting workflow)
 
-- Julius Hossein, EMBL Heidelberg
-<img src="./JuliusHossain.jpg" width="200">
 
 ## Advanced Workflow Components: Details
 
-### Invited Component Autors
-
-- Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
-<img src="./SianCulley.jpg" width="200">
-
-- Robert Haase (CSBD Dresden, https://myerslab.mpi-cbg.de/robert-haase/, @haesleinhuepf)
-<img src="./RobertHaase.jpg" width="200">
-
-- Pejamn Rasti (Angers University,http://perso-laris.univ-angers.fr/~rasti/, @pejmanrasti)
-<img src="./PejmanRasti.jpg" width="200">
-
-- David Rousseau (Angers University)
-<img src="./DavidRousseau.jpg" width="200">
 
 ###  API-beating: ImgLib2, ImageJ2 and Big-Data Viewer
 
-After an introduction to ImageJ, Fiji and the ImageJ2 application programming interface (API) the session will be mainly live coding as a 
-group. We will construct a workflow by utilizing auto-completion capabilities of IntellIJ and compile the workflow as
-ImageJ/Fiji plugin. The workflow will be utilized to convert images between ImageJ1 and ImageJ2 worlds. We will apply a 
-threshold and post-process the binary image using ImageJ-Ops. We will visualise intermediate results using BigDataViewer.
-Last but not least an overview on upcoming technologies will be given including 
-ImageJ-Server, ImageJ Juypter notebooks, ImageJ on GPU (CLIJ) and ImageJ from Python.
-
-**Homework:** To prepare this session, students are asked to install some software packages on their laptops in advance of 
-the course:
-* IntellIJ https://www.jetbrains.com/idea/download/
-* Oracle Java SE Development kit 8 (JDK8) https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-* Fiji https://imagej.net/Fiji/Downloads
-* Last but not least, please download this github repository and open the pom.xml as a project in IntellIJ to check if everything was installed properly: https://github.com/imagej/example-imagej-command
-
-If a student is experienced with Eclipse and wants to use it instead of IntellIJ, he or she is very welcome to do so. 
-However, demonstrations, short-cuts and best practices will be presented in IntellIJ.
-
-In case of any issues, please contact Robert: rhaase@mpi-cbg.de
+- Invited Author: Robert Haase (CSBD Dresden, https://myerslab.mpi-cbg.de/robert-haase/, @haesleinhuepf)
+   - <img src="./RobertHaase.jpg" width="200">
+- [preparation and homeworks](Robert_IJAPIbeating.md)
 
 ### Deep-Learning to segment Life-Science images.
 
-more details comming sooon...
+- Invited Authors
+  - Pejamn Rasti (Angers University,http://perso-laris.univ-angers.fr/~rasti/, @pejmanrasti)
+     - <img src="PejmanRasti.jpg" width="200">
+  - David Rousseau (Angers University)  
+    -  <img src="DavidRousseau.jpg" width="200">
 
 ### Super-resolution images reconstruction and analysis.
 
-more details comming sooon...
+- Invited Author: Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
+   - <img src="./SianCulley.jpg" width="200">
 
 
 
