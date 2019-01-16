@@ -79,7 +79,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 ## Workflow Deconstruction: Details
 
 - Invited Author: - Julius Hossein, EMBL Heidelberg
-   - <img src="./JuliusHossain.jpg" width="200">
+   - <img src="./img/JuliusHossain.jpg" width="200">
 - Details of [Preparation and Homeworks](Julius_Construction_additional_details.md)
 - Concepts
 
@@ -96,21 +96,21 @@ During registration, the applicant is asked to submit at least one bioimage anal
 ###  API-beating: ImgLib2, ImageJ2 and Big-Data Viewer
 
 - Invited Author: Robert Haase (CSBD Dresden, https://myerslab.mpi-cbg.de/robert-haase/, @haesleinhuepf)
-   - <img src="./RobertHaase.jpg" width="200">
+   - <img src="./img/RobertHaase.jpg" width="200">
 - [preparation and homeworks](Robert_IJAPIbeating.md)
 
 ### Deep-Learning to segment Life-Science images.
 
 - Invited Authors
   - Pejamn Rasti (Angers University,http://perso-laris.univ-angers.fr/~rasti/, @pejmanrasti)
-     - <img src="PejmanRasti.jpg" width="200">
+     - <img src="img/PejmanRasti.jpg" width="200">
   - David Rousseau (Angers University)  
-    -  <img src="DavidRousseau.jpg" width="200">
+    -  <img src="img/DavidRousseau.jpg" width="200">
 
 ### Super-resolution images reconstruction and analysis.
 
 - Invited Author: Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
-   - <img src="./SianCulley.jpg" width="200">
+   - <img src="./img/SianCulley.jpg" width="200">
 
 
 
