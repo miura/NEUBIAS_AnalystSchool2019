@@ -106,6 +106,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
      - <img src="img/PejmanRasti.jpg" width="200">
   - David Rousseau (Angers University)  
     -  <img src="img/DavidRousseau.jpg" width="200">
+- [Preparation and homework](DL_NEUBIAS2019.md)
 
 ### Super-resolution images reconstruction and analysis.
 
