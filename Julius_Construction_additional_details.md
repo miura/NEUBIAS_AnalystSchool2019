@@ -37,9 +37,31 @@ http://www.mitocheck.org/mitotic_cell_atlas/
 
 Instruction to use the package is available at https://git.embl.de/grp-ellenberg/mitotic_cell_atlas/blob/master/README.md
 
+#### Important - downloading!!
+Complete package containing source code, example and excercise datasets and some precomputed results can be downloaded using 
+the following link. Since, this package size is about 5GB, I would recommend participants to download this beofore our session starts.
+
+https://oc.embl.de/index.php/s/6LsFSvHf9c4i4U4
+
+If you face trouble downloading this large file, you can download each part separately using the following 5 links:
+
+Source code:
+http://www.mitocheck.org/mitotic_cell_atlas/downloads/v1.0.1/mitotic_cell_atlas_v1.0.1_src.zip
+
+Example dataset
+http://www.mitocheck.org/mitotic_cell_atlas/downloads/v1.0.1/mitotic_cell_atlas_v1.0.1_exampledata.zip
+
+Excercise dataset
+https://oc.embl.de/index.php/s/AiehCcVtXPmtpMj
  
-Since, the entire framework is computationally time damanding even for a small data set, a simpler version of code package will be used so that
-we have more flexibility to go through the entire process with a minimal dataset. This will be made available to the students before the course session.
+Since, the entire framework is computationally time damanding even for the example dataset and segmentation of the landmarks is the most time demanding module,
+I have created even a smaller dataset by taking few timepoints from each of the cells in example dataset and this minimal dataset could be downloaded using 
+the link below:
+https://oc.embl.de/index.php/s/kPkCpCYitum34oJ
+
+I have also uploaded segmentation results for entire example dataset that will be used for constructing the canonical model. It could be downloaded
+using the link below:  
+https://oc.embl.de/index.php/s/nInhhq328e1Wlcs
  
 #### Requirements
 A MATLAB installation with the following toolboxes is required:

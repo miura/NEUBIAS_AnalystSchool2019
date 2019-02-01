@@ -113,7 +113,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 - Invited Author: Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
    - <img src="./img/SianCulley.jpg" width="200">
 
-
+- [Preparation and homework](SMLM_Analysis_in_Fiji.md)
 
 ## Workflows, Student Presentations
 
