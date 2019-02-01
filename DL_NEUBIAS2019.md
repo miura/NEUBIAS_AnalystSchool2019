@@ -19,6 +19,12 @@ all participants.
 You can find a tutorial to setup the codalab before the workshop
 [here](https://uabox.univ-angers.fr/index.php/s/qgsClU3hpTqBVfx)
 
-
 In case of any issues, please contact either David [david.rousseau@univ-angers.fr](david.rousseau@univ-angers.fr)
 or Pejman [pejman.rasti@univ-angers.fr](pejman.rasti@univ-angers.fr):
+
+# Sample Codes
+
+[Classification_Microscopy.ipynb](DL_codes/Classification_Microscopy.ipynb)
+
+[Segmentation_isbi.ipynb](DL_codes/Segmentation_isbi.ipynb)
+
