@@ -27,7 +27,7 @@ Feb 2 (Sat), 11:00  - 5 (Tue) 13:00, 2019
 
 |                      | Day 1 (Feb. 2)       | Day 2 (Feb. 3)                  | Day 3 (Feb. 4)              | Day 4 (Feb. 5) |
 | -------------------- | -------------------- | ------------------------------- | --------------------------- | -------------- |
-| Morning 1            | David                | Ignacio (TBC)                   | Sian                        | (TBC)          |
+| Morning 1            | David                | Ignacio (TBC)                   | Sian                        | Presentations  |
 | Morning 2            | Components (Pejmn).  | Deconstruction (Julius Hossain) | Deconstruction by students. | Presentations  |
 | Afternoon & evening. | Components (Robert). | Deconstruction (Julius Hossain) | Deconstruction by students  |                |
 
