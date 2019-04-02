@@ -98,6 +98,9 @@ During registration, the applicant is asked to submit at least one bioimage anal
 - Invited Author: Robert Haase (CSBD Dresden, https://myerslab.mpi-cbg.de/robert-haase/, @haesleinhuepf)
    - <img src="./img/RobertHaase.jpg" width="200">
 - [preparation and homeworks](Robert_IJAPIbeating.md)
+- [Notes and Codes](https://github.com/haesleinhuepf/NEUBIAS_TS11)
+- [Actual code that was written](https://github.com/haesleinhuepf/NEUBIAS_TS11/blob/What_we_did_at_NEUBIAS_TS11/src/main/java/de/mpicbg/imagej/CellCountingWorkflow.java)
+- [Saving Tables Issue](https://forum.image.sc/t/saving-tables-in-imagej2/22682)
 
 ### Deep-Learning to segment Life-Science images.
 
@@ -107,11 +110,15 @@ During registration, the applicant is asked to submit at least one bioimage anal
   - David Rousseau (Angers University)  
     -  <img src="img/DavidRousseau.jpg" width="200">
 - [Preparation and homework](DL_NEUBIAS2019.md)
+- [TensorFlow playground](https://playground.tensorflow.org/)
+- [Scripts for Loading Images](https://uabox.univ-angers.fr/index.php/s/BM7d90mTnCkmHqA)
 
 ### Analysis and segmentation plugins and libraries in ImageJ/Fiji
 
 - Invited Author: [Ignacio Arganda-Carreras](https://sites.google.com/site/iargandacarreras/) (Ikerbasque Research Fellow, Computer Science and Artificial Intelligence Department University of the Basque Country)
    - <img src="./img/Ignacio.jpg" width="400">
+- [Scripting Weka Segmentation](https://imagej.net/Scripting_the_Trainable_Weka_Segmentation#Example:_apply_classifier_to_all_images_in_folder_by_tiles)
+- [Scripting MorpholibJ](https://imagej.net/MorphoLibJ#Segmentation_pipeline_prototype)
 
 ### Super-resolution images reconstruction and analysis.
 
@@ -119,6 +126,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
    - <img src="./img/SianCulley.jpg" width="200">
 
 - [Preparation and homework](SMLM_Analysis_in_Fiji.md)
+- [Live Notes](https://docs.google.com/document/d/1kqU-mzr5Ihjs2--C_sTNumTjKCKJ8owlfUQKVtozroo/edit#heading=h.gjdgxs)
 
 ## Workflows, Student Presentations
 
@@ -149,14 +157,20 @@ Author:		Ko Sugawara (Institut de génomique fonctionnelle de Lyon, France)
 
 Workflow:	Building cell lineages from tracking data is a powerful approach to investigate development and regeneration processes. However, it remains challenging to get tracking results on large datasets. Here, I will build a semi-automated cell tracking workflow that combines machine learning-based segmentation/tracking algorithms and user-friendly interface of MaMuT for manual annotation/curation. The workflow will be applied to 4D (XYZT) confocal datasets from living animal with fluorescently marked nuclei.
 
-
 ## Implementations / Presentations
 
 School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
 ### Groups
 
 https://docs.google.com/document/d/1mt7sJpgjf294zdvcAF3SoeuKH4pt-K1HPNSw3m_3RKY/edit#heading=h.jym4l7r0urx
- 
+
+### Some outcomes
+
+- [erickmartins/autoQC](https://github.com/erickmartins/autoQC)
+- [schmiedc/auto_qc](https://github.com/schmiedc/auto_qc)
+- [Live Notes](https://docs.google.com/document/d/1mt7sJpgjf294zdvcAF3SoeuKH4pt-K1HPNSw3m_3RKY/edit#)
+- [a custom loss function for weighted binary crossentropy in Keras.](https://gist.github.com/ksugar/e3e0ac2e3a0beaf1b0d6e5e9cc2b84e0)
+- [When you define a custom loss function, the format should be something like `loss(y_true, y_pred)` as noted below. ](https://github.com/keras-team/keras/issues/2662#issuecomment-217768406)
 
 ## Time Table
 
