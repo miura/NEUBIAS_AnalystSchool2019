@@ -108,6 +108,11 @@ During registration, the applicant is asked to submit at least one bioimage anal
     -  <img src="img/DavidRousseau.jpg" width="200">
 - [Preparation and homework](DL_NEUBIAS2019.md)
 
+### Analysis and segmentation plugins and libraries in ImageJ/Fiji
+
+- Invited Author: Ignacio Arganda-Carreras (Ikerbasque Research Fellow, Computer Science and Artificial Intelligence Department University of the Basque Country)
+   - <img src="./img/Ignacio.jpg" width="200">
+
 ### Super-resolution images reconstruction and analysis.
 
 - Invited Author: Sian Culley (University College London, http://www.ucl.ac.uk/lmcb/users/sian-culley, @SuperResoluSian)
@@ -148,7 +153,9 @@ Workflow:	Building cell lineages from tracking data is a powerful approach to in
 ## Implementations / Presentations
 
 School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
+### Groups
 
+https://docs.google.com/document/d/1mt7sJpgjf294zdvcAF3SoeuKH4pt-K1HPNSw3m_3RKY/edit#heading=h.jym4l7r0urx
  
 
 ## Time Table
