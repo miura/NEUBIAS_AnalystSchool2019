@@ -111,7 +111,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 ### Analysis and segmentation plugins and libraries in ImageJ/Fiji
 
 - Invited Author: Ignacio Arganda-Carreras (Ikerbasque Research Fellow, Computer Science and Artificial Intelligence Department University of the Basque Country)
-   - <img src="./img/Ignacio.jpg" width="200">
+   - <img src="./img/Ignacio.jpg" width="400">
 
 ### Super-resolution images reconstruction and analysis.
 
