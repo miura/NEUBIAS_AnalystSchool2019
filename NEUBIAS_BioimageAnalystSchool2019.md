@@ -117,7 +117,32 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflows, Student Presentations
 
-Some workflows submitted by participants during registration will be selected for presentation during the school. 
+Selected Bioimage Analysis Workflows from Contributions by Participants
+
+### CellConnect: Analyzing and validating cell connectivity maps
+
+Author:		Nasser DARWISH-MIRANDA (Institute of Science and Technology Austria)
+
+Workflow:	The cell connectivity map of a developing zebrafish embryo was studied. The confocal stacks had channels for the nuclei, cell membranes and the medium between cells.The nuclei were segmented by entropy and their centers were used as cell coordinates. After discarding distant pairs, the connections were probed through averaged bundles of connecting paths. The resulting connectivity map provided branching ratios and tree sizes.This software was developed using Matlab and the Bioformats library.
+
+
+### Quantitative analysis and interactive visualization of highly multiplexed image data
+
+Author:		Volker Hilsenstein (Monash University, Melbourne(Clayton) Australia)
+
+Workflow:	I present a highly multiplexed (>10 channels) image acquisition and analysis workflow for single cell phenotyping. Highly-multiplexed data presents a visualization challenge. I address this challenge with configurable dashboards (based on recent Python plotting libraries) for interactive data exploration of multiple features at the single-cell level, offering the ability to select individual cells across multiple linked plots and linking their data points back to the respective cell images. 
+
+### Deep Learning for Zooplankton Classification  
+
+Author:		George Graham (Marine Biological Association of the UK)
+
+Workflow:	For invasive plankton monitoring I’m using Deep Learning to automatically identify zooplankton in FlowCam Macro images. I’ll illustrate the traditional manual methods used for plankton analysis and then explore the Deep Learning approaches for classification. Using a set of images manually labelled by expert taxonomists I’ll illustrate the workflow for network training, my experience of the open source libraries and the hardware (local vs. cloud based GPUs) required to get started. My intention is to show that you do not need to be an expert to start using Deep Learning for solving image analysis problems! Finally, I’ll show how how new, or ‘unknown’, plankton species are identified; how the network can be iteratively re-trained using human-in-the-loop; and how transfer learning and data augmentation makes Deep Learning applicable to problems with small numbers of images.
+
+### Semi-automated tracking of cell lineage using convolutional neural networks
+
+Author:		Ko Sugawara (Institut de génomique fonctionnelle de Lyon, France)
+
+Workflow:	Building cell lineages from tracking data is a powerful approach to investigate development and regeneration processes. However, it remains challenging to get tracking results on large datasets. Here, I will build a semi-automated cell tracking workflow that combines machine learning-based segmentation/tracking algorithms and user-friendly interface of MaMuT for manual annotation/curation. The workflow will be applied to 4D (XYZT) confocal datasets from living animal with fluorescently marked nuclei.
 
 
 ## Implementations / Presentations
